@@ -28,10 +28,11 @@ To run this project locally, follow these steps:
    Copy code
    flutter run
 **Prerequisites**  
-Flutter SDK: Ensure that Flutter is installed on your machine.  
-Dart SDK: Included with Flutter.  
+- Flutter SDK: Ensure that Flutter is installed on your machine.  
+- Dart SDK: Included with Flutter.
+  
 **Contributing**  
-Contributions are welcome! Please fork this repository and submit a pull request with your changes.  
+**Contributions are welcome! Please fork this repository and submit a pull request with your changes.  
   
 **Contact**  
 For any inquiries or feedback, please reach out to:  
