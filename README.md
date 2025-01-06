@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/MKhalidHossain/book_town_app.git
 
-   Prerequisites
+Prerequisites
 Flutter SDK: Ensure that Flutter is installed on your machine.
 Dart SDK: Included with Flutter.
 Contributing
@@ -32,3 +32,5 @@ Md. Khalid Hossain
 🔗 LinkedIn: linkedin.com/in/md-khalidhossain
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+For more details on writing effective README files, consider checking GitHub's [guide on creating a README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes).
+::contentReference[oaicite:0]{index=0}
