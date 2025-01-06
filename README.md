@@ -27,7 +27,6 @@ For any inquiries or feedback, please reach out to:
 
 Md. Khalid Hossain
 📧 Email: hossainkhalid93@gmail.com
-📱 Phone: +8801773732889
 🔗 GitHub: github.com/MKhalidHossain
 🔗 LinkedIn: linkedin.com/in/md-khalidhossain
 License
