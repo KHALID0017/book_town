@@ -12,21 +12,21 @@ Book Town is a Flutter-based application designed to provide users with an immer
 
 To run this project locally, follow these steps:
 
-1. **Clone the Repository**:
+1. **Clone the Repository**:  
+   ```bash  
+   git clone https://github.com/MKhalidHossain/book_town_app.git  
+2. **Navigate to the Project Directory**:  
    ```bash
-   git clone https://github.com/MKhalidHossain/book_town_app.git
-2. **Navigate to the Project Directory**:
-bash
-Copy code
-cd book_town_app
-**Install Dependencies**: Ensure you have Flutter installed. Then, run:
-bash
-Copy code
-flutter pub get
-**Run the Application**:
-bash
-Copy code
-flutter run
+   Copy code
+   cd book_town_app
+3. **Install Dependencies**: Ensure you have Flutter installed. Then, run:
+   ```bash
+   Copy code
+   flutter pub get
+4. **Run the Application**:
+   ```bash
+   Copy code
+   flutter run
 **Prerequisites**  
 Flutter SDK: Ensure that Flutter is installed on your machine.  
 Dart SDK: Included with Flutter.  
